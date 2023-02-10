@@ -1,0 +1,15 @@
+body{
+    background-color: darkslategrey;
+}
+
+h3 {
+    color: white;
+}
+
+#good {
+    color: green;
+}
+
+#bad {
+    color: red;
+}
